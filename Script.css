@@ -1,0 +1,11 @@
+<html>
+    <body>
+        <div id="myEle">Hello, World!</div>
+    <script>
+        let ele = document.getElementById('myEle');
+        ele.style.backgroundColor = 'lightblue';
+        ele.style.fontSize = '20px';
+        ele.style.padding = '10px';
+    </script>
+    </body>
+</html>
